@@ -1,0 +1,18 @@
+Technolgy used:
+1) Language: HTML, CSS & JavaScript
+2) Library: jQuery, Owlcarsoul, Maginific Popup & Chart.js
+3) Framework: Bootstrap 4.5
+4) API: 
+	-https://bnpb-inacovid19.hub.arcgis.com/ (Indonesia Province)
+	-https://covid19.mathdro.id/api/countries/Indonesia (Indonesia Cases)
+	-https://api.covid19api.com/summary (Global Cases)
+
+*Special thanks to webapp creator for this template*
+
+Follow me on:
+https://github.com/alif-arrizqy
+https://www.linkedin.com/in/alif-ayatulloh-ar-rizqy/
+https://dribbble.com/alif_arrizqy
+
+If you want to say "thank you" :
+https://www.buymeacoffee.com/alifarrizqy
